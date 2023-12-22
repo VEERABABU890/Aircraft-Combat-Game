@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SmallEnimes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SmallEnimes\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=speed\ size
+comment1.target=SmallEnimes(int,\ int)
+comment2.params=speed\ size\ color
+comment2.target=SmallEnimes(int,\ int,\ java.lang.String)
+comment3.params=size
+comment3.target=void\ resize(int)
+comment4.params=
+comment4.target=void\ bounceVertically()
+comment5.params=
+comment5.target=void\ bounceHorizontally()
+comment6.params=
+comment6.target=void\ checkCollision()
+comment7.params=color
+comment7.target=void\ releaseBullet(java.lang.String)
+comment8.params=
+comment8.target=void\ act()
+numComments=9

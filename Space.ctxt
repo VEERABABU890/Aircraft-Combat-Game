@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Space\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Space()
+comment2.params=
+comment2.target=void\ addHeroAirPlane()
+comment3.params=color
+comment3.target=void\ addSmallEnemy(java.lang.String)
+comment4.params=
+comment4.target=void\ addBigEnemy()
+comment5.params=
+comment5.target=void\ displayScore()
+comment6.params=
+comment6.target=void\ nextLevel()
+comment7.params=
+comment7.target=void\ backgroundImage()
+comment8.params=
+comment8.target=void\ act()
+numComments=9

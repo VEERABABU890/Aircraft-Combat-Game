@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Next
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Next\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Next()
+comment10.params=
+comment10.target=void\ act()
+comment2.params=
+comment2.target=void\ addHeroAirPlane()
+comment3.params=color
+comment3.target=void\ addSmallEnemy(java.lang.String)
+comment4.params=
+comment4.target=void\ addBigEnemy1()
+comment5.params=
+comment5.target=void\ addBigEnemy()
+comment6.params=
+comment6.target=void\ addBigEnemy2()
+comment7.params=
+comment7.target=void\ displayScore()
+comment8.params=
+comment8.target=void\ backgroundImage()
+comment9.params=
+comment9.target=void\ nextLevel()
+numComments=11
