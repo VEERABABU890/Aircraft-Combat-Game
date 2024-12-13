@@ -1,6 +1,6 @@
 
 
-PROJECT TITLE: Space-Race-Project
+PROJECT TITLE: Aircraft-Combat-Game
 
 PURPOSE OF PROJECT: This project is a 2D aircraft combat game where the player controls a hero aircraft, engaging in air battles with enemy aircraft. The main objective is to destroy enemy aircraft while avoiding incoming attacks. The game features a health system, progressive levels, a score system, and dynamic combat mechanics, offering an immersive and engaging experience for users.
 
